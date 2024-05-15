@@ -23,3 +23,4 @@ SQL Server database diagram:
 
 ![image](https://github.com/GerryJouaud/Projet-Site-Enchere/assets/145365777/615e53af-fa59-450b-8353-5ac863ac4dbb)
 
+©Antoine De Anta - Paul Charruey - Gerry Jouaud
