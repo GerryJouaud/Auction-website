@@ -1,6 +1,6 @@
 This application, developed using Java SpringBoot layered architecture, allows users to upload articles for sale. 
 Each user can create an account to sell a product and bid on other products. This project was carried out as part of my training at Eni with two other developers: Antoine de Anta and Paul Charruey. 
-It was highly relevant to work on this project as it enabled us to deepen our understanding of layered development with a functional CRUD.
+It was highly relevant to work on this project as it enabled us to deepen our understanding of layered development with a functional CRUD using ThymeLeaf.
 We were able to develop interesting features such as security and user management, internationalization, exception handling, file importing, and also create a real application that communicates with a SQL Server database.
 ______________________________________________
 To consult the articles and bid:
